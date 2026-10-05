@@ -39,8 +39,6 @@ const resetBMI = () => {
     setMessage("");
   };
 
-
-
   return (
     <div className="min-vh-100 d-flex justify-content-center align-items-center"
   style={{ backgroundColor: "#f1ceab" }}>
